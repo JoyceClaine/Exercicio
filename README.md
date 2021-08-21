@@ -1,4 +1,4 @@
-# projeto
+# Exercicio
 
 programa que calcula as raizes do polinômio de grau 2.
 
